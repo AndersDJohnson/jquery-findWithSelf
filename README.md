@@ -3,6 +3,14 @@ jquery-findWithSelf
 
 `$.find` including current elements.
 
+## Install
+
+Via bower as `jquery-findWithSelf`.
+
+```sh
+bower install --save jquery-findWithSelf
+```
+
 ## Usage
 
 Include on your page, after jQuery. Supports AMD.
