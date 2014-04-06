@@ -3,6 +3,8 @@ jquery-findWithSelf
 
 `$.find` including current elements.
 
+Don't worry about wrapping HTML or repeating boilerplate code in order to include the current jQuery set in the scope of elements searched by `$.find`.
+
 ## Install
 
 Via bower as `jquery-findWithSelf`.
