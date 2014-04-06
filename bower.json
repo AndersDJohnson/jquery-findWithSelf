@@ -1,0 +1,21 @@
+{
+  "name": "jquery-findWithSelf",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AndersDJohnson/jquery-findWithSelf",
+  "description": "$.find including current elements",
+  "main": "src/jquery.findWithSelf.js",
+  "authors": [
+    "Anders D. Johnson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
